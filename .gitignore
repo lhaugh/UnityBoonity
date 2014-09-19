@@ -6,7 +6,11 @@
 .project
 .metadata
 bin/
-Library/
+/Library/FailedAssetImports.txt
+/Library/cache/
+/Library/previews/
+/Library/ScriptAssemblies
+/Library/metadata
 Temp/
 tmp/
 *.tmp
